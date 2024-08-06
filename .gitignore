@@ -1,2 +1,6 @@
-venv
+.venv
 .idea
+*.log
+output
+__pycache__
+TestData
